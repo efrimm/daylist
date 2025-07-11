@@ -1,4 +1,4 @@
-```markdown
+
 # DayList
 
 A simple, dependency-free CLI task manager written in vanilla Node.js. Manage your daily tasks right from the terminal!
