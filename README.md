@@ -166,6 +166,4 @@ Feel free to open issues or submit pull requests. All contributions are welcome!
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-```
 
