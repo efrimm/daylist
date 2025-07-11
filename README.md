@@ -131,7 +131,6 @@ Tasks are persisted in JSON format at `data/tasks.json`. The file structure is:
 [
   { "title": "Buy groceries",  "done": false },
   { "title": "Walk the dog",   "done": true  },
-  …
 ]
 ```
 
