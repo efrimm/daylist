@@ -19,7 +19,7 @@ A simple, dependency-free CLI task manager written in vanilla Node.js. Manage yo
 ├── package.json         # Project metadata & bin mapping
 └── package-lock.json    # Locked dependency tree (empty here, no deps)
 
-```
+````
 
 ---
 
@@ -48,7 +48,7 @@ A simple, dependency-free CLI task manager written in vanilla Node.js. Manage yo
    ```bash
    git clone https://github.com/yourusername/daylist.git
    cd daylist
-```
+````
 
 2. **Install** (no dependencies to install, but register the CLI):
 
